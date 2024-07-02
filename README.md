@@ -18,13 +18,12 @@ Skills: <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=f
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Solaimanislam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Solaimanislam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Solaimanislam&show_icons=true)  
+![Solaimanislam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Solaimanislam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Solaimanislam)  
+![Solaimanislam's Stats](https://github-readme-stats.vercel.app/api?username=Solaimanislam&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![Solaimanislam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Solaimanislam&theme=vue-dark&hide_border=true)
+
 
