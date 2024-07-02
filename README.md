@@ -26,6 +26,5 @@ Skills: <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=f
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/Solaimanislam)  
 
-anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats  
+![Solaimanislam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Solaimanislam&theme=vue-dark&hide_border=true)
 
